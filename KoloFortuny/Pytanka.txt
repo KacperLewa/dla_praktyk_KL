@@ -1,0 +1,39 @@
+~ZWIERZETA
+@LATWE
+DZIOBAK/Ssak skladajacy jajka
+FRETKA/Ssak z rodziny lasicowatych
+PLOTKA/Ryba z rodziny karpiowatych
+@SREDNIE
+SKORPION CESARSKI/Zamieszkuje lasy tropikalne Afryki. Pochodzi z gromady pajeczakow
+TYGRYS BENGALSKI/Ssak z rodziny kotowatych
+BLAZENEK/Ryba zyjaca w towarzystwie ukwialu
+@TRUDNE
+WILKOWOR TASMANSKI/Najwiekszy drapiezny torbacz. Ulegl wymarciu
+MITSUKURINA/Rekin glebinowy
+GRINDWAL/Ssak z rodziny delfinowatych
+~GRY KOMPUTEROWE
+@LATWE
+MINECRAFT/Gra o klockach
+LEAGUE OF LEGENDS/Testuje wytrzymalosc psychiczna
+DARK SOULS/Charakteryzuje sie trudnymi bossami i nauka na poraszce
+@SREDNIE
+RAYMAN/Akcja odgrywa się na Rozdrozach Marzen
+METAL GEAR SOLID/Gra wydana przez studio Konami w 1998r
+CRASH BANDCOOT/Platformowka z bohaterem przypominajacym lisa
+@TRUDNE
+DON'T STARVE/Gra polega na tym, aby sie nie zaglodzic
+ESCAPE FROM TARKOV/Wieloosobowa strzelanka pierwszoosobowa z elementami RPG wydane przez studio Battlestate Games
+COMMAND AND CONQUER/Seria komputerowych strategicznych gier czasu rzeczywistego wydana przez Westwood Studios
+~LITERATURA
+@LATWE
+BASTION/Powiesc Stephena Kinga o supergrypie, ktora wybija wiekszosc ludzkosci. Nieliczni zostaja wmieszani w konflikt z silami dobra i zla
+WIEDZMIN PANI JEZIORA/Powiesc fantazy o łowcy potworow. Jest to ostatnia czesc sagi.
+PAN TADEUSZ/Epos jednego z naszych wieszczy narodowych
+@SREDNIE
+JADRO CIEMNOSCI/Opowiesc o podrozy do kresu cywilizowanego swiata i granicach wlasnej wyobrazni
+KROL SZCZUROW/Pierwsza czesc Azjatyckiej Sagi Clavella
+DZUMA/Ksiazka o epidemii dzumy w algierskim Oranie, znajdującym się wowczas w kolonii francuskiej
+@TRUDNE
+ENKLAWA/Powiesc krymilanla o makabrycznym morderstwie na Wyspach Owczych
+ZEW CTHULHU/Opowiadanie to zapoczatkowało cykl opowiadan tworzacych swoista mitologie o Cthulhu
+KOLOR Z INNEGO WSZECHSWIATA/Opowiesc o tym, jak meteoryt uderza w stare gospodarstwo. Ma on dziwne własciwosci oraz wplywa na tych, ktorzy byli w okolicy jego uderzenia
